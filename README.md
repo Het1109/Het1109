@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Software Engineer and aspiring Data Scientist from India</h3>
 
 
-![](/https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsYWd0YWM4eXNuaHVqZjh0NnBuaGxpeGF0aHc1MDBuZ3Yzd2J3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bHSkKRvkRvy5chUBBp/giphy.gif)
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsYWd0YWM4eXNuaHVqZjh0NnBuaGxpeGF0aHc1MDBuZ3Yzd2J3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bHSkKRvkRvy5chUBBp/giphy.gif" width="600"/>
