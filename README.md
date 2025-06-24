@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
 <h3 align="center">A passionate Software Engineer and aspiring Data Scientist from India</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsYWd0YWM4eXNuaHVqZjh0NnBuaGxpeGF0aHc1MDBuZ3Yzd2J3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bHSkKRvkRvy5chUBBp/giphy.gif" width="600" />
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/het-patel-11s2004" target="blank">
