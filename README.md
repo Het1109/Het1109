@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Het Patel](https://linktr.ee/het_1109)</h1>
+### Hi 👋, I'm [Het Patel](https://linktr.ee/het_1109)
 <h3 align="center">A passionate Software Engineer and aspiring Data Scientist from India</h3>
 
 
